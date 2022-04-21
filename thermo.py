@@ -1,7 +1,5 @@
 from picamera import PiCamera
 from time import sleep
-import numpy as np
-import matplotlib.pyplot as plt
 
 camera = PiCamera()
 
